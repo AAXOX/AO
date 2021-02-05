@@ -1,0 +1,13 @@
+{
+    "name": "AAXO",
+    "description": "Deploy on Heroku.",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "<UUID>^_^",
+            "value": "<--Please Enter your UUID!-->"
+        }
+    },
+    "repository": "AHHH",
+    "stack": "container"
+}
